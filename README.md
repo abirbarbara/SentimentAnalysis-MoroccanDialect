@@ -1,6 +1,6 @@
 # Sentiment Analysis on Moroccan Dialect Comments
 
-This repository contains a sentiment analysis project focused on comments written in the Moroccan dialect, collected from press websites. The project aims to classify these comments as either positive or negative using different machine learning techniques.
+This repository contains a sentiment analysis project focused on comments written in the Moroccan dialect, collected from press websites. The project aims to classify these comments as either **positive or negative** using different machine learning techniques.
 
 ## Project Overview
 

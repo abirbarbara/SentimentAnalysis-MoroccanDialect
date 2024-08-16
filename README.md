@@ -13,14 +13,14 @@ This repository contains a sentiment analysis project focused on comments writte
    - Applies the Term Frequency-Inverse Document Frequency (TF-IDF) vectorization method to transform the text data into numerical features.
    - Uses these features to train the machine learning model SVM to classify the sentiment of the comments.
 
-2. **Sentiment Analysis using Chi-Square Feature Selection** (`sentiment-analysis-using-selectbest-chi2.ipynb`)
+2. **Sentiment Analysis using Logistic Regression** (`sentiment-analysis-using-logisticregression.ipynb`)
+   - Applies the Term Frequency-Inverse Document Frequency (TF-IDF) vectorization method to transform the text data into numerical features.
+   - Applies the Logistic Regression algorithm to the dataset for sentiment analysis.
+  
+3. **Sentiment Analysis using Chi-Square Feature Selection** (`sentiment-analysis-using-selectbest-chi2.ipynb`)
    - Applies the Term Frequency-Inverse Document Frequency (TF-IDF) vectorization method to transform the text data into numerical features.
    - Implements feature selection using the Chi-Square (Chi2) statistical test to identify the most relevant features for sentiment classification.
    - Uses the selected features to train SVM to predict sentiment.
-
-3. **Sentiment Analysis using Logistic Regression** (`sentiment-analysis-using-logisticregression.ipynb`)
-   - Applies the Term Frequency-Inverse Document Frequency (TF-IDF) vectorization method to transform the text data into numerical features.
-   - Applies the Logistic Regression algorithm to the dataset for sentiment analysis.
   
 **All the notebooks Include steps for data preprocessing, model training, and evaluation.**
 

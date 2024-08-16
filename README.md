@@ -30,4 +30,4 @@ To replicate the analysis or experiment with the notebooks:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/SentimentAnalysis-MoroccanDialect.git
+   git clone https://github.com/abirbarbara/SentimentAnalysis-MoroccanDialect.git

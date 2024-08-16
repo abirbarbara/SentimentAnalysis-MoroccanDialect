@@ -22,7 +22,7 @@ This repository contains a sentiment analysis project focused on comments writte
    - Implements feature selection using the Chi-Square (Chi2) statistical test to identify the most relevant features for sentiment classification.
    - Uses the selected features to train SVM to predict sentiment.
   
-**All the notebooks Include steps for data preprocessing, model training, and evaluation.**
+**All notebooks Include data preprocessing, model training, and evaluation steps.**
 
 ## Getting Started
 
